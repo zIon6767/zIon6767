@@ -57,7 +57,7 @@ A responsive web-based weather dashboard that transforms live weather forecast d
 
 🌐 **Live Demo:** [ActiviCast](https://zion6767.github.io/ActiviCast/)
 
-💻 **Source Code:** [GitHub Repository](https://github.com/zlon6767/ActiviCast)
+💻 **Source Code:** [GitHub Repository](https://github.com/zIon6767/ActiviCast)
 
 ### 2. SecondShelf — Campus Marketplace
 
