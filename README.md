@@ -55,7 +55,7 @@ A responsive web-based weather dashboard that transforms live weather forecast d
 - Developed activity recommendations based on weather conditions.
 - Designed a responsive interface for displaying weather information and recommendations.
 
-🌐 **Live Demo:** [ActiviCast](https://zlon6767.github.io/ActiviCast/)
+🌐 **Live Demo:** [ActiviCast](https://zion6767.github.io/ActiviCast/)
 
 💻 **Source Code:** [GitHub Repository](https://github.com/zlon6767/ActiviCast)
 
