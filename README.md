@@ -71,6 +71,10 @@ A collaborative Android marketplace application that allows students to buy and 
 
 *Collaborative academic project.*
 
+🌐 **Project:** SecondShelf — Campus Marketplace
+
+💻 **Source Code:** [GitHub Repository](https://github.com/zIon6767/SecondShelf)
+
 ### 3. Event Planning Assistant
 
 **Python | CustomTkinter | JSON | CSV**
